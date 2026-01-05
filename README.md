@@ -1,6 +1,5 @@
 # Model-Collapse-in-Tabular-Data-Generation
 
-Abstract
 We investigate model collapse in tabular data generation, inspired by recent findings
 of collapse in large language models trained on synthetic text. Using a highly imbal-
 anced click-through-rate dataset (roughly 1.5% positives), we evaluate three generative
