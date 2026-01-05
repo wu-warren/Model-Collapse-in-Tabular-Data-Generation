@@ -1,0 +1,1 @@
+# Model-Collapse-in-Tabular-Data-Generation
